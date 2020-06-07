@@ -1,5 +1,5 @@
 # doctors-portal-server
-##Back-End for Doctors-Portal Client Side
+## Back-End for Doctors-Portal Client Side
 Simple backend created with Node.js. Mainly it sends and stores data it is getting from the cliend-side. 
 
 Technology used:\
