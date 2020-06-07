@@ -1,6 +1,6 @@
 # doctors-portal-server
 ## Back-End for Doctors-Portal Client Side
-Simple backend created with Node.js. Mainly it sends and stores data it is getting from the cliend-side. 
+Simple backend created with Node.js. Mainly it sends and stores data it is getting from the cliend-side. MongoDB is used as the database
 
 Technology used:\
 \
